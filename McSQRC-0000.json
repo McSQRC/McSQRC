@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "label": "示例服务器",
+  "label": "McSQRC服务器评级-示例服务器",
   "message": "20.0 不可思议",
-  "color": "success",
-  "labelColor": "#9370DB",
+  "color": "#9370DB",
+  "labelColor": "grey",
   "style": "flat"
 }
