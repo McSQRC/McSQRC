@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "label": "示例服务器",
   "message": "20.0 不可思议",
-  "color": "",
-  "labelColor": "",
-  "style": ""
+  "color": "success",
+  "labelColor": "#9370DB",
+  "style": "flat"
 }
